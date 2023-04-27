@@ -14,7 +14,7 @@ Date:
 Link: https://trailhead.salesforce.com/content/learn/projects/build-a-discount-approval-process <br>
 Date: 4/27/2023
 
-#### In Progress:
+<!-- #### In Progress:
 -  ⚠ <br>
 Link: <br>
-Date:
+Date: -->
