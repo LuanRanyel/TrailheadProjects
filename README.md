@@ -14,6 +14,10 @@ Date:
 Link: https://trailhead.salesforce.com/content/learn/projects/build-a-discount-approval-process <br>
 Date: 4/27/2023
 
+- Find and Fix Bugs with Apex Replay Debugger ✅ <br>
+Link: https://trailhead.salesforce.com/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger
+Date: 6/26/2023
+
 <!-- #### In Progress:
 -  ⚠ <br>
 Link: <br>
